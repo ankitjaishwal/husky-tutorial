@@ -1,6 +1,6 @@
 # husky-tutorial
 
-- npm i --save-dev eslint husly prettier lint-staged
+- npm i --save-dev eslint husky prettier lint-staged
 - create .prettierrc
 - npx eslint --init - Configure
 - npm i --save-dev eslint-config-prettier
